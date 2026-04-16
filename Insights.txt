@@ -1,0 +1,8 @@
+Key Insights:
+
+• Bob handled the highest number of tickets, indicating higher workload
+• Alice also managed a significant workload, while Charlie handled fewer tickets
+• Charlie appears underutilized compared to other agents
+• Average resolution time is ~3.95 hours across all agents
+• Bob has higher resolution time, indicating possible performance inefficiency under heavy workload
+• Workload distribution is uneven across agents and teams, suggesting the need for better task allocation
